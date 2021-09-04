@@ -32,6 +32,22 @@
         "image":"https://i.imgur.com/2DB6992.jpg",
         "previousPrice": null,
         "currentPrice": 345.90
+        "colors":[
+        {
+            "id":1,
+            "colorHex": "#F5F5F5"
+      },
+      {
+          "id":2,
+          "colorHex": "#3F3F3F"
+      }
+    ],
+      "sizes":{
+        "p":true,
+        "m":false,
+        "g":true,
+        "xg":true
+       }
     },
     {
         "id": 3,
@@ -39,6 +55,22 @@
         "image":"https://i.imgur.com/Aicphfn.jpg",
         "previousPrice": null,
         "currentPrice": 345.90
+        "colors":[
+        {
+            "id":1,
+            "colorHex": "#F5F5F5"
+      },
+      {
+          "id":2,
+          "colorHex": "#3F3F3F"
+      }
+    ],
+      "sizes":{
+        "p":true,
+        "m":false,
+        "g":true,
+        "xg":true
+       }
     },
     {
         "id": 4,
@@ -46,6 +78,22 @@
         "image":"https://i.imgur.com/g4ocj2u.jpg",
         "previousPrice": null,
         "currentPrice": 345.90
+        "colors":[
+        {
+            "id":1,
+            "colorHex": "#F5F5F5"
+      },
+      {
+          "id":2,
+          "colorHex": "#3F3F3F"
+      }
+    ],
+      "sizes":{
+        "p":true,
+        "m":false,
+        "g":true,
+        "xg":true
+       }
     },
     {
         "id": 5,
@@ -53,6 +101,22 @@
         "image":"https://i.imgur.com/2DB6992.jpg",
         "previousPrice": null,
         "currentPrice": 345.90
+        "colors":[
+        {
+            "id":1,
+            "colorHex": "#F5F5F5"
+      },
+      {
+          "id":2,
+          "colorHex": "#3F3F3F"
+      }
+    ],
+      "sizes":{
+        "p":true,
+        "m":false,
+        "g":true,
+        "xg":true
+       }
     },
     {
         "id": 6,
@@ -60,6 +124,22 @@
         "image":"https://i.imgur.com/Aicphfn.jpg",
         "previousPrice": null,
         "currentPrice": 345.90
+        "colors":[
+        {
+            "id":1,
+            "colorHex": "#F5F5F5"
+      },
+      {
+          "id":2,
+          "colorHex": "#3F3F3F"
+      }
+    ],
+      "sizes":{
+        "p":true,
+        "m":false,
+        "g":true,
+        "xg":true
+       }
     },
     {
         "id": 7,
@@ -67,6 +147,22 @@
         "image":"https://i.imgur.com/g4ocj2u.jpg",
         "previousPrice": null,
         "currentPrice": 345.90
+        "colors":[
+        {
+            "id":1,
+            "colorHex": "#F5F5F5"
+      },
+      {
+          "id":2,
+          "colorHex": "#3F3F3F"
+      }
+    ],
+      "sizes":{
+        "p":true,
+        "m":false,
+        "g":true,
+        "xg":true
+       }
     },
     {
         "id": 8,
@@ -74,6 +170,22 @@
         "image":"https://i.imgur.com/2DB6992.jpg",
         "previousPrice": null,
         "currentPrice": 345.90
+        "colors":[
+        {
+            "id":1,
+            "colorHex": "#F5F5F5"
+      },
+      {
+          "id":2,
+          "colorHex": "#3F3F3F"
+      }
+    ],
+      "sizes":{
+        "p":true,
+        "m":false,
+        "g":true,
+        "xg":true
+       }
     },
     {
         "id": 9,
@@ -81,6 +193,22 @@
         "image":"https://i.imgur.com/Aicphfn.jpg",
         "previousPrice": null,
         "currentPrice": 345.90
+        "colors":[
+        {
+            "id":1,
+            "colorHex": "#F5F5F5"
+      },
+      {
+          "id":2,
+          "colorHex": "#3F3F3F"
+      }
+    ],
+      "sizes":{
+        "p":true,
+        "m":false,
+        "g":true,
+        "xg":true
+       }
     },
     {
         "id": 10,
@@ -88,6 +216,22 @@
         "image":"https://i.imgur.com/g4ocj2u.jpg",
         "previousPrice": null,
         "currentPrice": 345.90
+        "colors":[
+        {
+            "id":1,
+            "colorHex": "#F5F5F5"
+      },
+      {
+          "id":2,
+          "colorHex": "#3F3F3F"
+      }
+    ],
+      "sizes":{
+        "p":true,
+        "m":false,
+        "g":true,
+        "xg":true
+       }
     },
     {
         "id": 11,
@@ -95,6 +239,22 @@
         "image":"https://i.imgur.com/2DB6992.jpg",
         "previousPrice": null,
         "currentPrice": 345.90
+        "colors":[
+        {
+            "id":1,
+            "colorHex": "#F5F5F5"
+      },
+      {
+          "id":2,
+          "colorHex": "#3F3F3F"
+      }
+    ],
+      "sizes":{
+        "p":true,
+        "m":false,
+        "g":true,
+        "xg":true
+       }
     },
     {
         "id": 12,
@@ -102,6 +262,22 @@
         "image":"https://i.imgur.com/Aicphfn.jpg",
         "previousPrice": null,
         "currentPrice": 345.90
+        "colors":[
+        {
+            "id":1,
+            "colorHex": "#F5F5F5"
+      },
+      {
+          "id":2,
+          "colorHex": "#3F3F3F"
+      }
+    ],
+      "sizes":{
+        "p":true,
+        "m":false,
+        "g":true,
+        "xg":true
+       }
     },
     {
         "id": 13,
@@ -109,5 +285,21 @@
         "image":"https://i.imgur.com/g4ocj2u.jpg",
         "previousPrice": null,
         "currentPrice": 345.90
+        "colors":[
+        {
+            "id":1,
+            "colorHex": "#F5F5F5"
+      },
+      {
+          "id":2,
+          "colorHex": "#3F3F3F"
+      }
+    ],
+      "sizes":{
+        "p":true,
+        "m":false,
+        "g":true,
+        "xg":true
+       }
     }
 ]} 
