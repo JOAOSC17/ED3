@@ -32,16 +32,7 @@
         "image":"https://i.imgur.com/2DB6992.jpg",
         "previousPrice": null,
         "currentPrice": 345.90
-        "colors":[
-        {
-            "id":1,
-            "colorHex": "#F5F5F5"
-      },
-      {
-          "id":2,
-          "colorHex": "#3F3F3F"
-      }
-    ],
+        "colors":null,
       "sizes":{
         "p":true,
         "m":false,
@@ -55,16 +46,7 @@
         "image":"https://i.imgur.com/Aicphfn.jpg",
         "previousPrice": null,
         "currentPrice": 345.90
-        "colors":[
-        {
-            "id":1,
-            "colorHex": "#F5F5F5"
-      },
-      {
-          "id":2,
-          "colorHex": "#3F3F3F"
-      }
-    ],
+        "colors":null,
       "sizes":{
         "p":true,
         "m":false,
@@ -78,16 +60,7 @@
         "image":"https://i.imgur.com/g4ocj2u.jpg",
         "previousPrice": null,
         "currentPrice": 345.90
-        "colors":[
-        {
-            "id":1,
-            "colorHex": "#F5F5F5"
-      },
-      {
-          "id":2,
-          "colorHex": "#3F3F3F"
-      }
-    ],
+        "colors":null,
       "sizes":{
         "p":true,
         "m":false,
@@ -101,16 +74,7 @@
         "image":"https://i.imgur.com/2DB6992.jpg",
         "previousPrice": null,
         "currentPrice": 345.90
-        "colors":[
-        {
-            "id":1,
-            "colorHex": "#F5F5F5"
-      },
-      {
-          "id":2,
-          "colorHex": "#3F3F3F"
-      }
-    ],
+        "colors":null,
       "sizes":{
         "p":true,
         "m":false,
@@ -124,16 +88,7 @@
         "image":"https://i.imgur.com/Aicphfn.jpg",
         "previousPrice": null,
         "currentPrice": 345.90
-        "colors":[
-        {
-            "id":1,
-            "colorHex": "#F5F5F5"
-      },
-      {
-          "id":2,
-          "colorHex": "#3F3F3F"
-      }
-    ],
+        "colors":null,
       "sizes":{
         "p":true,
         "m":false,
@@ -147,16 +102,7 @@
         "image":"https://i.imgur.com/g4ocj2u.jpg",
         "previousPrice": null,
         "currentPrice": 345.90
-        "colors":[
-        {
-            "id":1,
-            "colorHex": "#F5F5F5"
-      },
-      {
-          "id":2,
-          "colorHex": "#3F3F3F"
-      }
-    ],
+        "colors":null,
       "sizes":{
         "p":true,
         "m":false,
@@ -170,16 +116,7 @@
         "image":"https://i.imgur.com/2DB6992.jpg",
         "previousPrice": null,
         "currentPrice": 345.90
-        "colors":[
-        {
-            "id":1,
-            "colorHex": "#F5F5F5"
-      },
-      {
-          "id":2,
-          "colorHex": "#3F3F3F"
-      }
-    ],
+        "colors":null,
       "sizes":{
         "p":true,
         "m":false,
@@ -193,16 +130,7 @@
         "image":"https://i.imgur.com/Aicphfn.jpg",
         "previousPrice": null,
         "currentPrice": 345.90
-        "colors":[
-        {
-            "id":1,
-            "colorHex": "#F5F5F5"
-      },
-      {
-          "id":2,
-          "colorHex": "#3F3F3F"
-      }
-    ],
+        "colors":null,
       "sizes":{
         "p":true,
         "m":false,
@@ -216,16 +144,7 @@
         "image":"https://i.imgur.com/g4ocj2u.jpg",
         "previousPrice": null,
         "currentPrice": 345.90
-        "colors":[
-        {
-            "id":1,
-            "colorHex": "#F5F5F5"
-      },
-      {
-          "id":2,
-          "colorHex": "#3F3F3F"
-      }
-    ],
+        "colors":null,
       "sizes":{
         "p":true,
         "m":false,
@@ -239,16 +158,7 @@
         "image":"https://i.imgur.com/2DB6992.jpg",
         "previousPrice": null,
         "currentPrice": 345.90
-        "colors":[
-        {
-            "id":1,
-            "colorHex": "#F5F5F5"
-      },
-      {
-          "id":2,
-          "colorHex": "#3F3F3F"
-      }
-    ],
+        "colors":null,
       "sizes":{
         "p":true,
         "m":false,
@@ -262,16 +172,7 @@
         "image":"https://i.imgur.com/Aicphfn.jpg",
         "previousPrice": null,
         "currentPrice": 345.90
-        "colors":[
-        {
-            "id":1,
-            "colorHex": "#F5F5F5"
-      },
-      {
-          "id":2,
-          "colorHex": "#3F3F3F"
-      }
-    ],
+        "colors":null,
       "sizes":{
         "p":true,
         "m":false,
@@ -285,16 +186,7 @@
         "image":"https://i.imgur.com/g4ocj2u.jpg",
         "previousPrice": null,
         "currentPrice": 345.90
-        "colors":[
-        {
-            "id":1,
-            "colorHex": "#F5F5F5"
-      },
-      {
-          "id":2,
-          "colorHex": "#3F3F3F"
-      }
-    ],
+        "colors":null,
       "sizes":{
         "p":true,
         "m":false,
