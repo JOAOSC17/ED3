@@ -28,6 +28,7 @@
         "id": 2,
         "name": "CALÇA BLACK JEANS",
         "image":"https://i.imgur.com/2DB6992.jpg",
+        "zomImage":null,
         "previousPrice": null,
         "currentPrice": 345.90,
       "colors":[
@@ -51,6 +52,7 @@
         "id": 3,
         "name": "CALÇA BLACK JEANS",
         "image":"https://i.imgur.com/Aicphfn.jpg",
+        "zomImage":null,
         "previousPrice": null,
         "currentPrice": 345.90,
       "colors":[
@@ -74,6 +76,7 @@
         "id": 4,
         "name": "CALÇA BLACK JEANS",
         "image":"https://i.imgur.com/g4ocj2u.jpg",
+        "zomImage":null,
         "previousPrice": null,
         "currentPrice": 345.90,
       "colors":[
@@ -97,6 +100,7 @@
         "id": 5,
         "name": "CALÇA BLACK JEANS",
         "image":"https://i.imgur.com/2DB6992.jpg",
+        "zomImage":null,
         "previousPrice": null,
         "currentPrice": 345.90,
       "colors":[
@@ -120,6 +124,7 @@
         "id": 6,
         "name": "CALÇA BLACK JEANS",
         "image":"https://i.imgur.com/Aicphfn.jpg",
+        "zomImage":null,
         "previousPrice": null,
         "currentPrice": 345.90,
       "colors":[
@@ -143,6 +148,7 @@
         "id": 7,
         "name": "CALÇA BLACK JEANS",
         "image":"https://i.imgur.com/g4ocj2u.jpg",
+        "zomImage":null,
         "previousPrice": null,
         "currentPrice": 345.90,
       "colors":[
@@ -166,6 +172,7 @@
         "id": 8,
         "name": "CALÇA BLACK JEANS",
         "image":"https://i.imgur.com/2DB6992.jpg",
+        "zomImage":null,
         "previousPrice": null,
         "currentPrice": 345.90,
       "colors":[
@@ -189,6 +196,7 @@
         "id": 9,
         "name": "CALÇA BLACK JEANS",
         "image":"https://i.imgur.com/Aicphfn.jpg",
+        "zomImage":null,
         "previousPrice": null,
         "currentPrice": 345.90,
       "colors":[
@@ -212,6 +220,7 @@
         "id": 10,
         "name": "CALÇA BLACK JEANS",
         "image":"https://i.imgur.com/g4ocj2u.jpg",
+        "zomImage":null,
         "previousPrice": null,
         "currentPrice": 345.90,
       "colors":[
@@ -235,6 +244,7 @@
         "id": 11,
         "name": "CALÇA BLACK JEANS",
         "image":"https://i.imgur.com/2DB6992.jpg",
+        "zomImage":null,
         "previousPrice": null,
         "currentPrice": 345.90,
       "colors":[
@@ -258,6 +268,7 @@
         "id": 12,
         "name": "CALÇA BLACK JEANS",
         "image":"https://i.imgur.com/Aicphfn.jpg",
+        "zomImage":null,
         "previousPrice": null,
         "currentPrice": 345.90,
       "colors":[
@@ -281,6 +292,7 @@
         "id": 13,
         "name": "CALÇA BLACK JEANS",
         "image":"https://i.imgur.com/g4ocj2u.jpg",
+        "zomImage":null,
         "previousPrice": null,
         "currentPrice": 345.90,
       "colors":[
