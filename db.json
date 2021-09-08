@@ -67,8 +67,8 @@
     ],
       "sizes":{
         "p":true,
-        "m":false,
-        "g":true,
+        "m":true,
+        "g":false,
         "xg":true
        }
     },
