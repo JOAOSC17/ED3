@@ -4,30 +4,15 @@
           "id": 1,
           "name": "MOLETOM VERMELHO CABRAL",
           "images":[
-              {
-                  "id":1,
-                  "image":"https://i.imgur.com/oCCyrgK.jpg"
-              },
-              {
-                  "id":2,
-                  "image":"https://i.imgur.com/8HXPUYo.jpg"
-              },
-              {
-                  "id":3,
-                  "image":"https://i.imgur.com/oCCyrgK.jpg"
-              }
+                  "https://i.imgur.com/oCCyrgK.jpg",
+                  "https://i.imgur.com/8HXPUYo.jpg",
+                  "https://i.imgur.com/oCCyrgK.jpg"
           ],
           "previousPrice": 345.90,
           "currentPrice": 242.10,
           "colors":[
-            {
-                "id":1,
-                "colorHex": "#F5F5F5"
-          },
-          {
-              "id":2,
-              "colorHex": "#3F3F3F"
-          }
+                "#F5F5F5",
+                "#3F3F3F"
         ],
           "sizes":{
             "p":true,
@@ -40,30 +25,16 @@
             "id": 2,
             "name": "CALÇA BLACK JEANS",
             "images":[
-                {
-                    "id":1,
-                    "image":"https://i.imgur.com/2DB6992.jpg"
-                },
-                {
-                    "id":2,
-                    "image":"https://i.imgur.com/2DB6992.jpg"
-                },
-                {
-                    "id":3,
-                    "image":"https://i.imgur.com/2DB6992.jpg"
-                }
+                    "https://i.imgur.com/2DB6992.jpg",
+                    "https://i.imgur.com/2DB6992.jpg",
+                    "https://i.imgur.com/2DB6992.jpg"
             ],
             "previousPrice": null,
             "currentPrice": 345.90,
           "colors":[
-            {
-                "id":1,
-                "colorHex": "#F5F5F5"
-          },
-          {
-              "id":2,
-              "colorHex": "#3F3F3F"
-          }
+              "#F5F5F5",
+              "#3F3F3F"
+
         ],
           "sizes":{
             "p":true,
@@ -76,30 +47,15 @@
             "id": 3,
             "name": "CALÇA BLACK JEANS",
             "images":[
-                {
-                    "id":1,
-                    "image":"https://i.imgur.com/Aicphfn.jpg"
-                },
-                {
-                    "id":2,
-                    "image":"https://i.imgur.com/Aicphfn.jpg"
-                },
-                {
-                    "id":3,
-                    "image":"https://i.imgur.com/Aicphfn.jpg"
-                }
+                    "https://i.imgur.com/Aicphfn.jpg",
+                    "https://i.imgur.com/Aicphfn.jpg",
+                    "https://i.imgur.com/Aicphfn.jpg"
             ],
             "previousPrice": null,
             "currentPrice": 345.90,
           "colors":[
-            {
-                "id":1,
-                "colorHex": "#F5F5F5"
-          },
-          {
-              "id":2,
-              "colorHex": "#3F3F3F"
-          }
+                 "#F5F5F5",
+                 "#3F3F3F"
         ],
           "sizes":{
             "p":true,
@@ -112,30 +68,15 @@
             "id": 4,
             "name": "CALÇA BLACK JEANS",
             "images":[
-                {
-                    "id":1,
-                    "image":"https://i.imgur.com/g4ocj2u.jpg"
-                },
-                {
-                    "id":2,
-                    "image":"https://i.imgur.com/g4ocj2u.jpg"
-                },
-                {
-                    "id":3,
-                    "image":"https://i.imgur.com/g4ocj2u.jpg"
-                }
+                    "https://i.imgur.com/g4ocj2u.jpg",
+                    "https://i.imgur.com/g4ocj2u.jpg",
+                    "https://i.imgur.com/g4ocj2u.jpg"
             ],
             "previousPrice": null,
             "currentPrice": 345.90,
           "colors":[
-            {
-                "id":1,
-                "colorHex": "#F5F5F5"
-          },
-          {
-              "id":2,
-              "colorHex": "#3F3F3F"
-          }
+                "#F5F5F5",
+                "#3F3F3F"
         ],
           "sizes":{
             "p":true,
@@ -148,30 +89,15 @@
             "id": 5,
             "name": "CALÇA BLACK JEANS",
             "images":[
-                {
-                    "id":1,
-                    "image":"https://i.imgur.com/2DB6992.jpg"
-                },
-                {
-                    "id":2,
-                    "image":"https://i.imgur.com/2DB6992.jpg"
-                },
-                {
-                    "id":3,
-                    "image":"https://i.imgur.com/2DB6992.jpg"
-                }
+                    "https://i.imgur.com/2DB6992.jpg",
+                    "https://i.imgur.com/2DB6992.jpg",
+                    "https://i.imgur.com/2DB6992.jpg"
             ],
             "previousPrice": null,
             "currentPrice": 345.90,
           "colors":[
-            {
-                "id":1,
-                "colorHex": "#F5F5F5"
-          },
-          {
-              "id":2,
-              "colorHex": "#3F3F3F"
-          }
+                 "#F5F5F5",
+               "#3F3F3F"
         ],
           "sizes":{
             "p":true,
@@ -180,39 +106,24 @@
             "xg":true
            }
         },
-        {
+       {
             "id": 6,
             "name": "CALÇA BLACK JEANS",
             "images":[
-                {
-                    "id":1,
-                    "image":"https://i.imgur.com/Aicphfn.jpg"
-                },
-                {
-                    "id":2,
-                    "image":"https://i.imgur.com/Aicphfn.jpg"
-                },
-                {
-                    "id":3,
-                    "image":"https://i.imgur.com/Aicphfn.jpg"
-                }
+                    "https://i.imgur.com/Aicphfn.jpg",
+                    "https://i.imgur.com/Aicphfn.jpg",
+                    "https://i.imgur.com/Aicphfn.jpg"
             ],
             "previousPrice": null,
             "currentPrice": 345.90,
           "colors":[
-            {
-                "id":1,
-                "colorHex": "#F5F5F5"
-          },
-          {
-              "id":2,
-              "colorHex": "#3F3F3F"
-          }
+                "#F5F5F5",
+                "#3F3F3F"
         ],
           "sizes":{
             "p":true,
-            "m":false,
-            "g":true,
+            "m":true,
+            "g":false,
             "xg":true
            }
         },
@@ -220,30 +131,15 @@
             "id": 7,
             "name": "CALÇA BLACK JEANS",
             "images":[
-                {
-                    "id":1,
-                    "image":"https://i.imgur.com/g4ocj2u.jpg"
-                },
-                {
-                    "id":2,
-                    "image":"https://i.imgur.com/g4ocj2u.jpg"
-                },
-                {
-                    "id":3,
-                    "image":"https://i.imgur.com/g4ocj2u.jpg"
-                }
+                    "https://i.imgur.com/g4ocj2u.jpg",
+                    "https://i.imgur.com/g4ocj2u.jpg",
+                    "https://i.imgur.com/g4ocj2u.jpg"
             ],
             "previousPrice": null,
             "currentPrice": 345.90,
           "colors":[
-            {
-                "id":1,
-                "colorHex": "#F5F5F5"
-          },
-          {
-              "id":2,
-              "colorHex": "#3F3F3F"
-          }
+                "#F5F5F5",
+                "#3F3F3F"
         ],
           "sizes":{
             "p":true,
@@ -256,30 +152,15 @@
             "id": 8,
             "name": "CALÇA BLACK JEANS",
             "images":[
-                {
-                    "id":1,
-                    "image":"https://i.imgur.com/2DB6992.jpg"
-                },
-                {
-                    "id":2,
-                    "image":"https://i.imgur.com/2DB6992.jpg"
-                },
-                {
-                    "id":3,
-                    "image":"https://i.imgur.com/2DB6992.jpg"
-                }
+                    "https://i.imgur.com/2DB6992.jpg",
+                    "https://i.imgur.com/2DB6992.jpg",
+                    "https://i.imgur.com/2DB6992.jpg"
             ],
             "previousPrice": null,
             "currentPrice": 345.90,
           "colors":[
-            {
-                "id":1,
-                "colorHex": "#F5F5F5"
-          },
-          {
-              "id":2,
-              "colorHex": "#3F3F3F"
-          }
+                 "#F5F5F5",
+               "#3F3F3F"
         ],
           "sizes":{
             "p":true,
@@ -292,35 +173,20 @@
             "id": 9,
             "name": "CALÇA BLACK JEANS",
             "images":[
-                {
-                    "id":1,
-                    "image":"https://i.imgur.com/Aicphfn.jpg"
-                },
-                {
-                    "id":2,
-                    "image":"https://i.imgur.com/Aicphfn.jpg"
-                },
-                {
-                    "id":3,
-                    "image":"https://i.imgur.com/Aicphfn.jpg"
-                }
+                    "https://i.imgur.com/Aicphfn.jpg",
+                    "https://i.imgur.com/Aicphfn.jpg",
+                    "https://i.imgur.com/Aicphfn.jpg"
             ],
             "previousPrice": null,
             "currentPrice": 345.90,
           "colors":[
-            {
-                "id":1,
-                "colorHex": "#F5F5F5"
-          },
-          {
-              "id":2,
-              "colorHex": "#3F3F3F"
-          }
+                "#F5F5F5",
+                "#3F3F3F"
         ],
           "sizes":{
             "p":true,
-            "m":false,
-            "g":true,
+            "m":true,
+            "g":false,
             "xg":true
            }
         },
@@ -328,138 +194,15 @@
             "id": 10,
             "name": "CALÇA BLACK JEANS",
             "images":[
-                {
-                    "id":1,
-                    "image":"https://i.imgur.com/g4ocj2u.jpg"
-                },
-                {
-                    "id":2,
-                    "image":"https://i.imgur.com/g4ocj2u.jpg"
-                },
-                {
-                    "id":3,
-                    "image":"https://i.imgur.com/g4ocj2u.jpg"
-                }
+                    "https://i.imgur.com/g4ocj2u.jpg",
+                    "https://i.imgur.com/g4ocj2u.jpg",
+                    "https://i.imgur.com/g4ocj2u.jpg"
             ],
             "previousPrice": null,
             "currentPrice": 345.90,
           "colors":[
-            {
-                "id":1,
-                "colorHex": "#F5F5F5"
-          },
-          {
-              "id":2,
-              "colorHex": "#3F3F3F"
-          }
-        ],
-          "sizes":{
-            "p":true,
-            "m":false,
-            "g":true,
-            "xg":true
-           }
-        },
-        {
-            "id": 11,
-            "name": "CALÇA BLACK JEANS",
-            "images":[
-                {
-                    "id":1,
-                    "image":"https://i.imgur.com/2DB6992.jpg"
-                },
-                {
-                    "id":2,
-                    "image":"https://i.imgur.com/2DB6992.jpg"
-                },
-                {
-                    "id":3,
-                    "image":"https://i.imgur.com/2DB6992.jpg"
-                }
-            ],
-            "previousPrice": null,
-            "currentPrice": 345.90,
-          "colors":[
-            {
-                "id":1,
-                "colorHex": "#F5F5F5"
-          },
-          {
-              "id":2,
-              "colorHex": "#3F3F3F"
-          }
-        ],
-          "sizes":{
-            "p":true,
-            "m":false,
-            "g":true,
-            "xg":true
-           }
-        },
-        {
-            "id": 12,
-            "name": "CALÇA BLACK JEANS",
-            "images":[
-                {
-                    "id":1,
-                    "image":"https://i.imgur.com/Aicphfn.jpg"
-                },
-                {
-                    "id":2,
-                    "image":"https://i.imgur.com/Aicphfn.jpg"
-                },
-                {
-                    "id":3,
-                    "image":"https://i.imgur.com/Aicphfn.jpg"
-                }
-            ],
-            "previousPrice": null,
-            "currentPrice": 345.90,
-          "colors":[
-            {
-                "id":1,
-                "colorHex": "#F5F5F5"
-          },
-          {
-              "id":2,
-              "colorHex": "#3F3F3F"
-          }
-        ],
-          "sizes":{
-            "p":true,
-            "m":false,
-            "g":true,
-            "xg":true
-           }
-        },
-        {
-            "id": 13,
-            "name": "CALÇA BLACK JEANS",
-            "images":[
-                {
-                    "id":1,
-                    "image":"https://i.imgur.com/g4ocj2u.jpg"
-                },
-                {
-                    "id":2,
-                    "image":"https://i.imgur.com/g4ocj2u.jpg"
-                },
-                {
-                    "id":3,
-                    "image":"https://i.imgur.com/g4ocj2u.jpg"
-                }
-            ],
-            "previousPrice": null,
-            "currentPrice": 345.90,
-          "colors":[
-            {
-                "id":1,
-                "colorHex": "#F5F5F5"
-          },
-          {
-              "id":2,
-              "colorHex": "#3F3F3F"
-          }
+                "#F5F5F5",
+                "#3F3F3F"
         ],
           "sizes":{
             "p":true,
@@ -469,3 +212,4 @@
            }
         }
     ]} 
+  
